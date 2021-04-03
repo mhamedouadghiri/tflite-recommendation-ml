@@ -1,0 +1,5 @@
+venv
+data/raw
+.idea
+**/**test.py
+**/__init__.py
